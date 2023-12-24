@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #312f2f;
+    background-color: #ff0000;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #000000;
-    color: #e9f084;
+    color: #00830b;
 }
 
 
@@ -50,7 +50,7 @@ p {
     width: 100%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #e9f084;
+    background-color: #00830b;
 }
 
 .search-engine-optimization { 
@@ -58,7 +58,7 @@ p {
     padding: 50px;
     height: 425px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #e9f084;
+    background-color: #00830b;
     color: #000000;
 }
 
